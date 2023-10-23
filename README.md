@@ -1,0 +1,1 @@
+Ecommerce page having multiple features.
